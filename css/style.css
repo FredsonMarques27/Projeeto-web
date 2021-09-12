@@ -142,11 +142,6 @@ main h2 {
 }
 
 
-article {
-    padding: 0px 10px 10px 10px;
-}
-
-
 main img.bugdroid {
     max-width: 350px;
     margin: auto;
@@ -186,6 +181,10 @@ div.video iframe {
 }
 
 /************************************Fim******************************************/
+article {
+    padding: 0px 10px 10px 10px;
+}
+
 
 aside {
     background-image: linear-gradient(rgba(17, 18, 53, 0.54), rgba(17, 18, 53, 0.56));
